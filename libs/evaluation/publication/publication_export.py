@@ -549,6 +549,7 @@ class Publication:
                 "exp_icpms_analyte_internalstandard",
                 # for data_icpms, exp_icpms_calibration_params, exp_icpms_integration
                 "exp_icpms_calibration_set",  # for calibration experiments
+                "data_icpms",  # for data_icpms_internalstandard_fitting
                 "ana_icpms_sfc_fitting",  # for ana_icpms_sfc_fitting_peaks
             ]
         print(recursive_level, table_name) if self.debug else ""
