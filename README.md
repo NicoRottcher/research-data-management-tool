@@ -5,7 +5,7 @@ A SQL and Python-based tool for managing research data throughout its lifecycle 
 
 This software and data repository is supplement to an article submitted by N.C. Röttcher *et al.* to J. Mat. Chem. A.
 
-Please consider citing the linked Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10417757.svg)](https://doi.org/10.5281/zenodo.10417757) 
+Please consider citing the linked Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10417756.svg)](https://doi.org/10.5281/zenodo.10417756) 
 
 # What is included?
 - data belonging to the mentioned publication stored in a SQLite database (database/sqlite.db). This includes:
@@ -24,7 +24,7 @@ Please consider citing the linked Zenodo repository [![DOI](https://zenodo.org/b
 
 # Usage
 - The repository is compatible with mybinder to interactively explore data without any software installation.
-Interactive version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicoRottcher/research-data-management-tool/HEAD)
+Interactive version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.10417756/)
 (It might take a while until the jupyter instance is loaded)
 
 - If mybinder is not available, you can take a look at the code in a non-interactive version: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/NicoRottcher/research-data-management-tool/tree/main/)
