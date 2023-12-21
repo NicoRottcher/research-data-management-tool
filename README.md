@@ -1,7 +1,9 @@
 
 # A research data management tool
 
-A SQL and Python-based tool for managing research data throughout its lifecycle from acquisition to publication. The method enables FAIR-compatible data management, minimizes user interaction, and provides customizability for diverse research domains. This is the data repository for an article submitted by N.C. Röttcher *et al.* to J. Mat. Chem. A.
+A SQL and Python-based tool for managing research data throughout its lifecycle from acquisition to publication. The method enables FAIR-compatible data management, minimizes user interaction, and provides customizability for diverse research domains. 
+
+This software and data repository is supplement to an article submitted by N.C. Röttcher *et al.* to J. Mat. Chem. A.
 
 # What is included?
 - data belonging to the mentioned publication stored in a SQLite database (database/sqlite.db). This includes:
@@ -20,10 +22,10 @@ A SQL and Python-based tool for managing research data throughout its lifecycle 
 
 # Usage
 - The repository is compatible with mybinder to interactively explore data without any software installation.
-Interactive version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicoRottcher/binder-test/HEAD)
+Interactive version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NicoRottcher/research-data-management-tool/HEAD)
 (It might take a while until the jupyter instance is loaded)
 
-- If mybinder is not available, you can take a look at the code in a non-interactive version: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/NicoRottcher/binder-test/tree/main/)
+- If mybinder is not available, you can take a look at the code in a non-interactive version: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/NicoRottcher/research-data-management-tool/tree/main/)
 
 - Alternatively, you can create a python environment on your local machine and copy the repo files (see below).
 
