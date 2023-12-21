@@ -1,0 +1,18 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab=3.5.2=pyhd8ed1ab_0
+  - numpy=1.22.3=py38h99721a1_2
+  - pandas=1.4.4=py38h47df419_0
+  - matplotlib=3.6.2=py38h578d9bd_0
+  - ipympl=0.9.2=pyhd8ed1ab_0
+  - scipy=1.10.0=py38h10c12cc_0
+  - nptdms=1.6.0=pyhd8ed1ab_0
+  - arrow=1.2.3=pyhd8ed1ab_0
+  - sqlalchemy=1.4.39=py38h5eee18b_0
+  - openpyxl=3.1.2=py38h01eb140_0
+  - cmcrameri=1.4=pyhd8ed1ab_0
+prefix: /opt/miniconda3
