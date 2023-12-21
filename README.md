@@ -5,7 +5,7 @@ A SQL and Python-based tool for managing research data throughout its lifecycle 
 
 This software and data repository is supplement to an article submitted by N.C. Röttcher *et al.* to J. Mat. Chem. A.
 
-Please consider citing the linked Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10417756.svg)](https://doi.org/10.5281/zenodo.10417756) 
+Please consider citing the linked Zenodo repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10417756.svg)](https://doi.org/10.5281/zenodo.10417756) 
 
 # What is included?
 - data belonging to the mentioned publication stored in a SQLite database (database/sqlite.db). This includes:
