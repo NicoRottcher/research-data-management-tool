@@ -1,0 +1,11 @@
+#!/bin/bash
+# add home-developed library to site-packages
+python -c "import shutil; shutil.copytree(src='/home/jovyan/libs/evaluation', dst='/srv/conda/envs/notebook/lib/python3.8/site-packages/evaluation', dirs_exist_ok=True,)"
+# approach via setup.py did not work for me https://github.com/binder-examples/setup.py/tree/master
+# changing pythonpath variable (below) does not work due to limited privileges
+# export PYTHONPATH=$PYTHONPATH:/home/jovyan/scripts
+
+
+# run matplotlib once to generate the font cache - does
+#python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
+#test -e test.png && rm test.png
