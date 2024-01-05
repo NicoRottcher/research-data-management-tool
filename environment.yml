@@ -15,4 +15,5 @@ dependencies:
   - sqlalchemy=1.4.39=py38h5eee18b_0
   - openpyxl=3.1.2=py38h01eb140_0
   - cmcrameri=1.4=pyhd8ed1ab_0
+  - sqlparse=0.4.4=pyhd8ed1ab_0
 prefix: /opt/miniconda3
