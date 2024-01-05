@@ -60,9 +60,9 @@ def connect(user="hte_read", echo=False, database=None, host=None):
     """
 
     if os.name == "nt":  # for windows development computer
-        config_file_path = Path(r"C:\01_HIERN\database\db_config.ini")  # %%% remove between Path(r" and db_config.ini")
+        config_file_path = ""
     else:  # for linux server
-        config_file_path = Path("/home/hte_admin/keys/db_config.ini")  # %%% remove between Path(" and db_config.ini")
+        config_file_path = ""
     db_config = pd.read_csv(config_file_path, sep="\t", header=0)
     config = db_config.loc[db_config.loc[:, "user"] == user, :].transpose().iloc[:, 0]
     config["database"] = database if database is not None else config["database"]
