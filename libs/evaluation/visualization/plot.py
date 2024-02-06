@@ -1,7 +1,7 @@
 """
 Scripts for plotting utils and template settings
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import inspect

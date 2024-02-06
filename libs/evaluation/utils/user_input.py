@@ -1,7 +1,7 @@
 """
 Scripts to simplify user input
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import sys

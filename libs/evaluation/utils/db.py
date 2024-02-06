@@ -1,7 +1,7 @@
 """
 Scripts for database-related functions
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import os.path

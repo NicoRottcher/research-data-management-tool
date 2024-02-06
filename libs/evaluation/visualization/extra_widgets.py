@@ -1,7 +1,7 @@
 """
 Scripts for standard widgtes used within interactive tools
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 from ipywidgets import *

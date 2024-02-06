@@ -1,7 +1,7 @@
 """
 Scripts for translating MySQL to SQLite syntax
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 from collections import deque

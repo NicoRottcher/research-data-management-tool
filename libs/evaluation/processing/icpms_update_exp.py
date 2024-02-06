@@ -1,7 +1,7 @@
 """
 Scripts for processing and analysis of ICP-MS experiments
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 from pathlib import Path

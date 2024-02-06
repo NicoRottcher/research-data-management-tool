@@ -1,7 +1,7 @@
 """
 Scripts for the insertion of ICP-MS data from Agilent Mass Hunter or Perkin Elmer software
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import pandas as pd

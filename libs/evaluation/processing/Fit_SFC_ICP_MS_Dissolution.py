@@ -4,7 +4,7 @@ A script to fit SFC-ICP-MS dissolution data
 
 Created on Wed Jul  5 09:23:21 2023
 
-@author: Birk Fritsch
+@author: Forschungszentrum Jülich GmbH, Birk Fritsch
 
 This script is based on https://github.com/BirkFritsch/SFC-ICPMS-Fitting
 """

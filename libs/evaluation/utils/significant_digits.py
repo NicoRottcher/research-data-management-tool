@@ -2,7 +2,7 @@
 """
 Scripts to derive significant digits
 Created on Mon Dec 11 13:24:05 2023
-@author: Birk Fritsch
+@author: Forschungszentrum Jülich GmbH, Birk Fritsch
 """
 import math
 

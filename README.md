@@ -3,7 +3,8 @@
 
 A SQL and Python-based tool for managing research data throughout its lifecycle from acquisition to publication. The method enables FAIR-compatible data management, minimizes user interaction, and provides customizability for diverse research domains. 
 
-This software and data repository is supplement to an article submitted by N.C. Röttcher *et al.* to J. Mat. Chem. A.
+This software and data repository is supplement to the article: N. C. Röttcher, G. D. Akkoç, S. Finger, B. Fritsch, J. Möller, K. J. J. Mayrhofer, D. Dworschak, Accelerating Materials Research with a Comprehensive Data Management Tool: A Case Study on an Electrochemical Laboratory. J. Mater. Chem. A 2024. https://doi.org/10.1039/D3TA06247C.
+
 
 Please consider citing the linked Zenodo repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10417756.svg)](https://doi.org/10.5281/zenodo.10417756) 
 

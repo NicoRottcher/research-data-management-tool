@@ -1,7 +1,7 @@
 """
 Scripts for SQLite database connection as used in mybinder
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import math

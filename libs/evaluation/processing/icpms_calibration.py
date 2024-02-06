@@ -1,7 +1,7 @@
 """
 Scripts for calibration of ICP-MS experiments
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import pandas as pd

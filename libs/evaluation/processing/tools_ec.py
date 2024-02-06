@@ -1,7 +1,7 @@
 """
 Scripts for processing and analyzing electrochemical data
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import datetime as dt
