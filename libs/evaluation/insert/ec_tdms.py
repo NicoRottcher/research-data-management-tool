@@ -1,7 +1,7 @@
 """
 Scripts for the insertion of electrochemical data from LabView software eCat
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 from nptdms import TdmsFile  # to read out tdms files

@@ -1,7 +1,7 @@
 """
 Scripts for various utils
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import pandas as pd

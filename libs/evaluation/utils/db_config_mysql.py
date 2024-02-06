@@ -1,7 +1,7 @@
 """
 Scripts for MySQL database connection
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 from pathlib import Path

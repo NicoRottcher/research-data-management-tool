@@ -1,7 +1,7 @@
 """
 Scripts for preparing export of data and files for publication
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import os

@@ -1,7 +1,7 @@
 """
 Scripts for interactive integration and uploading to database
 Created in 2023
-@author: Nico Röttcher
+@author: Forschungszentrum Jülich GmbH, Nico Röttcher
 """
 
 import pandas as pd
